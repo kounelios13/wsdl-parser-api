@@ -9,8 +9,8 @@
     "cookie-parser": "^1.0.0",
     "debug": "~2.6.9",
     "express": "^4.21.0",
+    "logger": "^0.0.1",
     "morgan": "~1.9.1",
-    "soap": "^1.1.5",
-    "strong-soap": "^4.1.4"
+    "soap": "^1.1.5"
   }
 }
